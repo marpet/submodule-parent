@@ -1,0 +1,3 @@
+[submodule "foreignSubModule"]
+	path = foreignSubModule
+	url = https://github.com/marpet/foreignSubModule.git
